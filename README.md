@@ -3,7 +3,7 @@ automated script for VLESS, VMess and Trojan-Go
 
 ## Usage
 ```sh
-curl -fsSL https://raw.githubusercontent.com/phlinhng/v2ray-tcp-tls-web/vless/src/v2gun.sh -o ~/v2gun.sh && bash ~/v2gun.sh
+curl -fsSL https://raw.githubusercontent.com/mrlong520/v2ray-tcp-tls-web/vless/src/v2gun.sh -o ~/v2gun.sh && bash ~/v2gun.sh
 ```
 To run the script again once downloaded, just use the following command:
 ```
@@ -38,7 +38,7 @@ bash ~/v2gun.sh
 
 ## Related work
 + [Shawdowrockets 訂閱鏈接編輯器](https://www.phlinhng.com/b64-url-editor): subscription manager
-+ [v2script](https://github.com/phlinhng/v2ray-tcp-tls-web/tree/master): v1.x version
++ [v2script](https://github.com/mrlong520/v2ray-tcp-tls-web/tree/master): v1.x version
 
 ## Telegram
 https://t.me/technologyshare
@@ -63,4 +63,4 @@ https://t.me/technologyshare
 + [@charlieethan/firewall-proxy](https://github.com/charlieethan/firewall-proxy)
 
 ## Stargazers over time
-[![Stargazers over time](https://starchart.cc/phlinhng/v2ray-tcp-tls-web.svg)](https://starchart.cc/phlinhng/v2ray-tcp-tls-web)
+[![Stargazers over time](https://starchart.cc/phlinhng/v2ray-tcp-tls-web.svg)](https://starchart.cc/mrlong520/v2ray-tcp-tls-web)
